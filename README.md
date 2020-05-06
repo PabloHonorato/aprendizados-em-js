@@ -1,1 +1,2 @@
-#minhas anotações
+
+ repositório designado ao estudo em javascript
