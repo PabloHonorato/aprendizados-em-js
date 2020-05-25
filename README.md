@@ -1,4 +1,4 @@
-// curso em vide :
+curso em video :
 
 Curso Grátis de JavaScript e ECMAScript para Iniciantes
 
